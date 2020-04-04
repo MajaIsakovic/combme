@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat&display=swap);
+.so-widget-sow-headline-default-e3892d33f584 .sow-headline-container h2.sow-headline {
+  font-family: Montserrat;
+  font-weight: 400;
+  text-align: left;
+  
+  line-height: 1.4em;
+  font-size: 38px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.so-widget-sow-headline-default-e3892d33f584 .sow-headline-container h1.sow-sub-headline {
+  text-align: left;
+  
+  line-height: 1.4em;
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.so-widget-sow-headline-default-e3892d33f584 .sow-headline-container .decoration {
+  line-height: 0em;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.so-widget-sow-headline-default-e3892d33f584 .sow-headline-container .decoration .decoration-inside {
+  height: 1px;
+  display: inline-block;
+  border-top: 4px solid #e63296;
+  width: 100%;
+  max-width: 280px;
+}
+.so-widget-sow-headline-default-e3892d33f584 .sow-headline-container *:first-child {
+  margin-top: 0 !important;
+}
+.so-widget-sow-headline-default-e3892d33f584 .sow-headline-container *:last-child {
+  margin-bottom: 0 !important;
+}
