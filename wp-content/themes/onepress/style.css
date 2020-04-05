@@ -5176,6 +5176,23 @@ div > div > div > h4{
       position: relative;
       top: 200px;
     }
+    .decoration{
+      display: none;
+    }
+
+    #panel-2890-0-0-3{
+      position: relative;
+      top: -45px;
+    }
+
+    #panel-2890-0-0-3 > div > div > div > h3{
+      margin-bottom: 0px;
+      margin-top: 50px;
+    }
+    #panel-2890-0-0-1 > div > div > h3 {
+      margin-bottom: 0px;
+    }
+
 
     /*  */
     #pgc-2890-0-0{
@@ -5264,6 +5281,9 @@ div > div > div > h4{
   #pg-2890-7 > .panel-row-style{
     padding: 0px 0px 0px 0px !important;
   }
+  #pgc-2890-7-1, #pgc-2890-7-0{
+    padding: 0px 5px 0px 5px !important;
+  }
 
   /* fourth section */
   .show_more > p > strong{
@@ -5296,6 +5316,11 @@ div > div > div > h4{
   }
   #panel-2890-7-1-0 > div > div > p{
     font-weight: 400;
+  }
+
+  #panel-2890-11-0-0 > div > div > div > h1{
+    padding-top: 50px !important;
+    padding-bottom: 20px;
   }
 
   /* fifth - big slider */
@@ -5357,6 +5382,7 @@ div > div > div > h4{
     }
     #panel-2890-15-0-0 > div > div > div > h1{
       text-align: center;
+      margin-bottom: 40px;
     }
     #pg-2890-16 > .panel-row-style{
       padding: 0px 0px 0px 0px !important;
@@ -5641,9 +5667,13 @@ div > div > div > h4{
     margin-top: 0px;
   }
 
-
   #pg-2890-7 > .panel-row-style{
     padding: 40px 170px 40px 170px !important;
+  }
+
+  #panel-2890-11-0-0 > div > div > div > h1{
+    padding-top: 0px !important;
+    padding-bottom: 60px;
   }
 
   /* third section */
@@ -5652,7 +5682,7 @@ div > div > div > h4{
   }
 
   /* image left text right */
-  #img-slider-3{
+  #img-slider-3, #img-slider-2, #img-slider-1{
     border-radius: 15px;
     width: 80%;
   }
@@ -5683,6 +5713,9 @@ div > div > div > h4{
   }
   #pgc-2890-8-0 {
     padding-top: 0px !important;
+  }
+  #pgc-2890-7-1, #pgc-2890-7-0{
+    padding: 0px 0px 0px 0px !important;
   }
 
   /* slider & text */
@@ -5813,6 +5846,7 @@ div > div > div > h4{
   #panel-2890-4-0-0 > div > div > div > h2{
     text-align: left;
     font-weight: 600;
+    padding-left: 00px !important;
   }
 }
 
