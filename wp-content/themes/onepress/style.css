@@ -4874,7 +4874,8 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 }
 
 .so-widget-sow-image-default-2ec334f0a340 .sow-image-container .so-widget-image{
-  min-width: 90%;
+  /* min-width: 80%; */
+  max-width: 100%;
 }
 
 /* romboids remove*/
@@ -5163,8 +5164,23 @@ div > div > div > h4{
   #panel-2890-0-0-0 > .panel-widget-style{
     /* background-color: yellow; */
   }
+  /* coocke footer */
+  #cookie-notice{
+    background-color: #32AADC !important;
+  }
+  #cookie-notice > div > span {
+    color: #fff !important;
+  }
+  #cn-notice-buttons > a {
+    background-color: rgb(119, 119, 119) !important;
+    color: #fff !important;
+    background-image: none !important;
+  }
   .onepress-menu{
     margin-right: 0px;
+  }
+  .onepress-menu .onepress-menu-mobile {
+      border-top: 1px solid transparent !important;
   }
     /* first section */
     /*  */
@@ -5459,6 +5475,9 @@ div > div > div > h4{
   .onepress-menu{
     margin-right: 0px;
   }
+  .onepress-menu .onepress-menu-mobile {
+    border-top: 1px solid transparent !important;
+  }
     /* first section */
     /*  */
     #panel-2890-0-1-0 > div >div >img{
@@ -5602,6 +5621,9 @@ div > div > div > h4{
   .onepress-menu{
     margin-right: 0px;
   }
+  #site-navigation > ul {
+    border-top: 1px solid transparent !important;
+  }
   /* first section */
   #panel-2890-0-1-0 > div >div >img{
     position: relative;
@@ -5738,6 +5760,10 @@ div > div > div > h4{
     padding-left: 0px !important;
     font-size: 18px !important;
     text-transform: capitalize !important;
+  }
+  #img-slider-3, #img-slider-2, #img-slider-1{
+    border-radius: 15px;
+    width: 80% !important;
   }
 
   /* Die story */
