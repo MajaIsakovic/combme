@@ -5043,7 +5043,7 @@ div > div > div > h4{
 }
 
 #panel-2890-15-0-0 > .panel-widget-style{
-  padding: 0px 0px 0px 170px !important;
+  padding: 0px 0px 0px 0px !important;
 }
 
 #pg-2890-16 > .panel-row-style{
@@ -5289,9 +5289,12 @@ div > div > div > h4{
   #panel-2890-4-0-0 > div > div > div > h2{
     text-align: center;
     font-weight: 800;
-    font-size: 35px;
+    font-size: 36px;
     padding-left: 5px;
     padding-right: 5px;
+  }
+  #panel-2890-8-0-0 > div > div > h1{
+      font-size: 36px;
   }
 
   #pg-2890-7 > .panel-row-style{
@@ -5696,6 +5699,7 @@ div > div > div > h4{
   #panel-2890-11-0-0 > div > div > div > h1{
     padding-top: 0px !important;
     padding-bottom: 60px;
+    font-size: 36px;
   }
 
   /* third section */
@@ -5768,11 +5772,12 @@ div > div > div > h4{
 
   /* Die story */
   #panel-2890-15-0-0 > .panel-widget-style{
-    padding: 0px 0px 0px 170px !important;
+    padding: 0px 0px 0px 0px !important;
     margin-top: 0px !important;
   }
   #panel-2890-15-0-0 > div > div > div > h1{
-    text-align: left;
+    text-align: center;
+    font-size: 36px;
   }
 
   #pg-2890-16 > .panel-row-style{
@@ -5864,15 +5869,16 @@ div > div > div > h4{
 
   /* third section */
   #panel-2890-4-0-0 > .panel-widget-style{
-    padding: 0px 0px 0px 170px !important;
+    padding: 0px 0px 0px 0px !important;
     font-size: 34px;
     margin-top: 0px;
   }
 
   #panel-2890-4-0-0 > div > div > div > h2{
-    text-align: left;
+    text-align: center;
+    margin-bottom: 40px;
     font-weight: 600;
-    padding-left: 00px !important;
+    padding-left: 0px !important;
   }
 }
 
