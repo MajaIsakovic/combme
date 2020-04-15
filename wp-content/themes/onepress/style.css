@@ -5320,11 +5320,13 @@ div > div > div > h4{
 
   #panel-2890-7-0-1 > div > div div {
     font-size: 16px !important;
+    margin-top: 7px !important;
   }
   #panel-2890-7-1-1 > div > div > div {
     padding-left: 15px !important;
     padding-right: 15px !important;
     font-size: 16px !important;
+    margin-top: 7px !important;
   }
 
   #pg-2890-6, #pg-2890-5{
@@ -5602,11 +5604,13 @@ div > div > div > h4{
 
   #panel-2890-7-0-1 > div > div div {
     font-size: 16px !important;
+    margin-top: 7px !important;
   }
   #panel-2890-7-1-1 > div > div > div {
     padding-left: 15px !important;
     padding-right: 15px !important;
     font-size: 16px !important;
+    margin-top: 7px !important;
   }
 
   #pg-2890-6, #pg-2890-5{
@@ -5694,9 +5698,11 @@ div > div > div > h4{
     padding-left: 0px !important;
     padding-right: 0px !important;
     font-size: 14px !important;
+    margin-top: 7px !important;
   }
   #panel-2890-7-0-1 > div > div div {
     font-size: 14px !important;
+    margin-top: 7px !important;
   }
   #pgc-2890-7-1{
     margin-top: 0px;
