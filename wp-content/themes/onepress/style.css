@@ -5315,6 +5315,7 @@ div > div > div > h4{
     text-align: center;
     display: block;
     font-size: 14px;
+    font-weight: normal !important;
   }
 
   #panel-2890-7-0-1 > div > div div {
@@ -5341,6 +5342,15 @@ div > div > div > h4{
     padding-top: 50px !important;
     padding-bottom: 20px;
   }
+
+  /* more-less */
+  .siteorigin-widget-tinymce > h6{
+    display: inline !important;
+  }
+ .show_more{
+    display: inline-block !important;
+  }
+
 
   /* fifth - big slider */
   #big-slider{
